@@ -1,4 +1,4 @@
-tensorflow==1.13.1
+tensorflow==1.15.1
 Keras==2.0.9
 matplotlib==3.2.1
 numpy==1.15.2
